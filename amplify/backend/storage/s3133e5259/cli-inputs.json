@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3133e5259",
+  "policyUUID": "133e5259",
+  "bucketName": "hugo-bucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
